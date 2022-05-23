@@ -109,7 +109,7 @@ clothes = [
 	type: "bottom",
 	dressCode: "formal",
 	imageUrl:
-	"https://www.macys.com/shop/product/mens-haggar-cool-18-pro-classic-fit-expandable-waist-flat-front-stretch-dress-pants?ID=4372158&CategoryID=89",
+	"https://slimages.macysassets.com/is/image/MCY/products/1/optimized/8353081_fpx.tif?op_sharpen=1&wid=1230&hei=1500&fit=fit,1&$filterxlrg$&fmt=webp",
 },
 {
 	description: "Gray Dress Pants",
