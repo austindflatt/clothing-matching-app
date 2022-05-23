@@ -1,3 +1,4 @@
+clothes = [
 {
 	description: "Michael Kors Blue Dress Shirt",
 	type: "top",
@@ -145,3 +146,4 @@
     imageUrl:
     "https://marvel-b1-cdn.bc0a.com/f00000000114841/www.florsheim.com/styleguide/resources/images/about/styleTips/Q27/27header.jpg",
   },
+];
